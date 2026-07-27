@@ -1,0 +1,92 @@
+{
+  "Reagan, Dodds, Danforth et al. (2016), \"The emotional arcs of stories.\"": {
+    "Rags to riches (rise)": "Emotional tone steadily improves.",
+    "Tragedy / riches to rags (fall)": "Emotional tone steadily deteriorates.",
+    "Man in a hole (fall, then rise)": "The protagonist encounters trouble, reaches a low point, and recovers.",
+    "Icarus (rise, then fall)": "Success or happiness increases before ending in collapse.",
+    "Cinderella (rise, fall, then rise)": "Improvement is interrupted by a major reversal, followed by recovery or triumph.",
+    "Oedipus (fall, rise, then fall)": "Initial misfortune is followed by recovery, then a final deterioration."
+  },
+  "Dan McAdams, \"narrative identity\"": {
+    "Redemption sequences": {
+      "Sacrifice": "Suffering endured for a valued good",
+      "Recovery": "Loss followed by restoration",
+      "Growth": "Adversity produces a stronger self",
+      "Learning": "Adversity produces insight",
+      "Improvement": "Difficulty leads to better circumstances"
+    },
+    "Contamination sequences": {
+      "Betrayal": "Trust becomes deception or injury",
+      "Victimization": "Safety becomes harm or powerlessness",
+      "Loss": "Attachment or possession becomes absence",
+      "Failure": "Hope or effort culminates in defeat",
+      "Illness or injury": "Health or capacity becomes impairment",
+      "Disappointment": "Positive expectation becomes dissatisfaction",
+      "Disillusionment": "Admiration or belief becomes distrust"
+    },
+    "Motivational themes": {
+      "Agency": "Mastery, autonomy, achievement, power",
+      "Communion": "Love, intimacy, care, belonging"
+    },
+    "Interpretive features": {
+      "Meaning-making": "Events are assigned lessons or significance",
+      "Positive resolution": "Tension ends in an adaptive conclusion"
+    },
+    "Narrative coherence": {
+      "Temporal coherence": "Events are ordered clearly in time",
+      "Causal coherence": "Events are linked through cause and consequence",
+      "Thematic coherence": "Episodes are unified by recurring meanings",
+      "Cultural coherence": "The story follows recognizable cultural scripts"
+    },
+    "Broader life-story configuration": {
+      "The redemptive self": "A life organized around transforming suffering into growth and contribution"
+    }
+  },
+  "Georges Polti, \"The Thirty-Six Dramatic Situations (1895).\"": {
+    "Supplication": "A powerless person appeals to an uncertain authority for protection from a persecutor.",
+    "Deliverance": "A rescuer saves an unfortunate person from danger or punishment.",
+    "Crime Pursued by Vengeance": "An avenger pursues someone who has committed an inadequately punished crime.",
+    "Vengeance Taken for Kindred upon Kindred": "One relative avenges a wrong committed by another relative against their shared kin.",
+    "Pursuit": "A fugitive is hunted for an alleged or actual offense.",
+    "Disaster": "A powerful person or institution is defeated, ruined, or overthrown.",
+    "Falling Prey to Cruelty or Misfortune": "A relatively helpless person suffers under an oppressor or impersonal calamity.",
+    "Revolt": "A conspirator or rebel challenges a tyrannical power.",
+    "Daring Enterprise": "A bold leader attempts to obtain something difficult from a formidable adversary.",
+    "Abduction": "Someone is taken away from the person or power responsible for protecting them.",
+    "The Enigma": "A seeker must solve a problem, mystery, or riddle posed by an interrogator.",
+    "Obtaining": "Someone attempts to acquire a desired person, object, privilege, or decision from a resisting party.",
+    "Enmity of Kinsmen": "Members of the same family hate, persecute, or destroy one another.",
+    "Rivalry of Kinsmen": "Relatives compete for the same person, possession, status, or affection.",
+    "Murderous Adultery": "Adulterous lovers plot the death of the betrayed spouse.",
+    "Madness": "A person under the influence of insanity harms an innocent victim.",
+    "Fatal Imprudence": "Negligence, rashness, ignorance, or misplaced confidence causes grave harm.",
+    "Involuntary Crimes of Love": "Lovers unknowingly enter a forbidden or incestuous relationship.",
+    "Slaying of a Kinsman Unrecognized": "Someone unknowingly kills a relative or loved one whose identity is concealed.",
+    "Self-Sacrifice for an Ideal": "A person gives up life, welfare, possessions, or relationships for a principle or cause.",
+    "Self-Sacrifice for Kindred": "A person sacrifices themselves or something precious for a relative.",
+    "All Sacrificed for a Passion": "A consuming passion causes someone to abandon duty, fortune, family, reputation, or life.",
+    "Necessity of Sacrificing Loved Ones": "Duty, survival, religion, or necessity compels someone to sacrifice a loved one.",
+    "Rivalry of Superior and Inferior": "Unequal rivals compete for the same object, person, or position.",
+    "Adultery": "A spouse is betrayed through a secret relationship.",
+    "Crimes of Love": "Love itself violates a social, familial, religious, or moral prohibition.",
+    "Discovery of the Dishonor of a Loved One": "Someone discovers that a loved or respected person has committed a shameful act.",
+    "Obstacles to Love": "Two lovers are separated or opposed by external circumstances.",
+    "An Enemy Loved": "Someone falls in love with a person whom they, their family, or their community are expected to hate.",
+    "Ambition": "A person pursues power, rank, wealth, or achievement against an opposing force.",
+    "Conflict with a God": "A mortal struggles against a deity, fate, divine law, or supernatural power.",
+    "Mistaken Jealousy": "False evidence or manipulation causes someone to suspect a loved one of betrayal.",
+    "Erroneous Judgment": "An innocent person is condemned or harmed because the judge misunderstands the facts.",
+    "Remorse": "A wrongdoer is psychologically or morally tormented by a past act.",
+    "Recovery of a Lost One": "A seeker locates, rescues, or is reunited with someone who disappeared.",
+    "Loss of Loved Ones": "A person witnesses or experiences the death of a loved one, often through another’s actions."
+  },
+  "Christopher Booker, \"The Seven Basic Plots (2004).\"": {
+    "Overcoming the Monster": "The protagonist confronts and defeats a threatening, often overwhelmingly powerful antagonist.",
+    "Rags to Riches": "An obscure, poor, or disregarded protagonist gains success, status, maturity, or recognition—often after temporarily losing it.",
+    "The Quest": "The protagonist and companions undertake a difficult journey to obtain a goal, overcoming successive obstacles and temptations.",
+    "Voyage and Return": "The protagonist enters an unfamiliar world, experiences its wonders and dangers, and eventually returns with greater understanding.",
+    "Comedy": "A community becomes entangled in confusion, misunderstanding, disguise, or frustrated relationships before the disorder is resolved in reconciliation and union. Booker uses “comedy” structurally, not simply to mean humorous fiction.",
+    "Tragedy": "A central character is drawn toward destruction through a flaw, obsession, temptation, or increasingly wrongful choices.",
+    "Rebirth": "The protagonist falls under a dark, frozen, corrupted, or spiritually dead condition and is ultimately restored through a redemptive influence."
+  }
+}

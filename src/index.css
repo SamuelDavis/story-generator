@@ -1,0 +1,2 @@
+@layer theme, base, pico, utilities;
+@import "@picocss/pico/css/pico.classless.min.css" layer(pico);

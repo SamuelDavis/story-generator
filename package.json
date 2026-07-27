@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@picocss/pico": "^2.1.1",
     "solid-js": "^1.9.13"
   },
   "devDependencies": {
